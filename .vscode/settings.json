@@ -105,7 +105,7 @@
     "editor.cursorStyle": "line",
 
     //Enables font ligatures
-    "editor.fontLigatures": false,
+    "editor.fontLigatures": true,
 
     //Controls if the cursor should be hidden in the overview ruler.
     "editor.hideCursorInOverviewRuler": false,
@@ -240,7 +240,7 @@
     "files.insertFinalNewline": false,
 
     //Controls auto save of dirty files. Accepted values:  "off", "afterDelay", "onFocusChange" (editor loses focus), "onWindowChange" (window loses focus). If set to "afterDelay", you can configure the delay in "files.autoSaveDelay".
-    "files.autoSave": "off",
+    "files.autoSave": "afterDelay",
 
     //Controls the delay in ms after which a dirty file is saved automatically. Only applies when "files.autoSave" is set to "afterDelay"
     "files.autoSaveDelay": 1000,
@@ -281,7 +281,7 @@
     "git.enabled": true,
 
     //Path to the git executable
-    "git.path": null,
+    "git.path": "C:\\Users\\Luke\\AppData\\Local\\GitHub\\PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11\\cmd\\git.exe",
 
     //Whether auto refreshing is enabled
     "git.autorefresh": true,
