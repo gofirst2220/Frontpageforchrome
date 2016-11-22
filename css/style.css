@@ -42,7 +42,8 @@ html {
     -moz-appearance: none !important;
     font-family: var(--font) !important;
     background-color: #F5F5F5 !important;
-    overflow: hidden !important;
+	background-image: none !important;
+	overflow: hidden !important;
     top: 0px !important;
 }
 body {
