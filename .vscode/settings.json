@@ -51,7 +51,7 @@
     "editor.mouseWheelScrollSensitivity": 1,
 
     //Controls if quick suggestions should show up or not while typing
-    "editor.quickSuggestions": true,
+    "editor.quickSuggestions": false,
 
     //Controls the delay in ms after which quick suggestions will show up
     "editor.quickSuggestionsDelay": 10,
@@ -87,7 +87,7 @@
     "editor.suggestLineHeight": 0,
 
     //Insert snippets when their prefix matches. Works best when 'quickSuggestions' aren't enabled.
-    "editor.tabCompletion": false,
+    "editor.tabCompletion": true,
 
     //Controls whether the editor should highlight similar matches to the selection
     "editor.selectionHighlight": true,
