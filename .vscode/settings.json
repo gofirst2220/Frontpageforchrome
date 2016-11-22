@@ -659,7 +659,7 @@
 
     //Extensions
     //Automatically update extensions
-    "extensions.autoUpdate": false,
+    "extensions.autoUpdate": true,
 
     //External Terminal
     //Customizes which terminal to run on Windows.
